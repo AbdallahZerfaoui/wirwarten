@@ -30,7 +30,7 @@ Instead of everyone searching alone, people can see healthcare access problems a
 
 For example:
 
-> **Psychiatrist accepting publicly insured patients — Heilbronn**  
+> **Dermatologist accepting publicly insured patients — Heilbronn**  
 > 52 people waiting
 
 If this is also your problem, you simply click:
